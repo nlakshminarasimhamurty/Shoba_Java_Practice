@@ -1,0 +1,51 @@
+
+1) Functional  Testing
+smoke Testing,Sanity testing,Funtional Testing,Regression Testing
+
+---------- Automation Testing ------
+
+>> Ui Automation or web Automation .... frontend automation
+
+   1) Selenium 2) Cypress 3) Tosca and son on...
+
+>> API Automation or back automation......
+
+>> Etl Testing >> using this we can perform database testing.
+
+>> Appium tool >>  using we can automate mobile based application
+
+2) Non functional Testing
+
+ >> Load Testing or performace testing >> jmeter 
+ >> Security Testing or penetration testing >> brupsuite 
+ >> comapatabilty testing or cross browser testing >> selenium grid 
+ >> usebality testing >> scope less 
+
+
+--------------------------------------------------------------------------------------
+----- Roles and Responabalities  for both manual tester and automation----
+
+1) First need to the actual functionality of the application.
+2) preapare Test Cases
+3) Prepare a Test Data  >> pulling from diffrent teams depands on the application
+4) Execute the test cases >> Manually 
+5) if there is a defect we have to rise a bug in jira or any other tools.
+
+-----Automation----
+
+1) First will prepare testscripts using any programming launguage or scipting launguage.
+2) get it review your code from TL.
+3) once code review is done we need to push our code to vcs (git&github, gitlab,svn).
+4) We need to create jobs in jenkins. (part of CICD). >> output buid.
+
+First JOb >> Testing >> ON sucess
+Ansible Script >>> 
+
+
+--------
+
+
+
+
+
+
