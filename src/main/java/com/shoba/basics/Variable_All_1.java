@@ -17,6 +17,7 @@ public class Variable_All_1 {
 	public static void addition(int number1, int number2) {
 
 		System.out.println(number1 + number2);
+		System.out.println("adding to new branch");
 	}
 
 }
