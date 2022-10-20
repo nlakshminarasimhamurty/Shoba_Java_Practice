@@ -40,9 +40,33 @@ smoke Testing,Sanity testing,Funtional Testing,Regression Testing
 
 First JOb >> Testing >> ON sucess
 Ansible Script >>> 
+----------------------------
+
+........Application Architectures......
+
+1) 2-tier Architecture.
+2) 3-tier Architecture.
+3) Micro-services.
+
+------- Layers Of Application------
+
+1) Front End. >> html, javascript, bootstrap,angular js
+2) Middle Layer or Api layer or business logic layer  >> Java ,python,c#,ruby, perl,c++ etc..
+3)Backend layer. >> SQl, stored procedures.
+
+-------- Automation Testing tools ----
+1) Selenium.
+2) RestAsured for API  and postman.
+3) Appium.
+4) Sql.
+
+------will srtart with Java----------
+
+----History of Java----
+
+-----Java ---
 
 
---------
 
 
 

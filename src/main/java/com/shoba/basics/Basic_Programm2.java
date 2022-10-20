@@ -10,8 +10,8 @@ public class Basic_Programm2 {
 
 		System.out.println('i'); // i
 		System.out.println("i"); // i
-		System.out.println(name); // 10
-		System.out.println(s);
+		System.out.println(name); // sow
+		System.out.println(s); //10
 	}
 
 }

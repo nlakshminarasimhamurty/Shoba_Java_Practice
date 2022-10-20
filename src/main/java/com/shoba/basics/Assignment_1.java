@@ -29,6 +29,8 @@ public class Assignment_1 {
 
 		System.out.println(true);
 		System.out.println("true"); // this is not a boolean value .. this is a string
+		//System.out.println(null); // we cannot print null as a literal
+		
 	}
 
 }
