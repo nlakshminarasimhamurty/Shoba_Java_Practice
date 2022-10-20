@@ -2,7 +2,8 @@ package com.shoba.basics;
 
 public class Global_Variable {
 
-	static int i = 20; // static variable
+	static int i=30; // static variable
+
 	int j = 30; // non static variable
 
 	public static void main(String[] args) {
